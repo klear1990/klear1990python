@@ -1,3 +1,3 @@
-a == apple
-b == birid 
-oh my god
+#a == apple
+#b == birid 
+#print("oh my god")
